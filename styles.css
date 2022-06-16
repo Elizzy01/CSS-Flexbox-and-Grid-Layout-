@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Lexend+Deca&display=swap');
+
+
+body{
+    background-color: hsl(0, 0%, 95%);
+    font-family:'Lexend Deca', sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+
+}
+
+
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0 300px;
+}
+
+div {
+    padding: 30px;
+}
+
+h3{
+    color: hsl(0, 0%, 95%);
+    font-family:'Big Shoulders Display', cursive;
+    font-weight: 700px;
+    font-size: 35px ;
+    padding: 10px 0 5px;
+}
+
+
+
+button {
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 30px;
+    font-size: 12px;
+    padding: 10px 20px;
+   
+}
+
+p {
+    line-height: 1.7;
+    color: hsl(0, 0%, 95%);
+    margin: 30px 0 50px;
+}
+
+
+.first-container{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.second-container{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.third-container{
+    background-color: hsl(179, 100%, 13%);
+}
+
+.btn-3{
+    color: hsl(31, 77%, 52%);
+}
+
+.btn-2{
+    color: hsl(184, 100%, 22%);
+}
+
+.btn-1{
+    color: hsl(179, 100%, 13%);
+}
+
