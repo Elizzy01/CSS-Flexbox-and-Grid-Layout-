@@ -59,3 +59,13 @@ main div {
     grid-row:4/span 1; 
 }
 
+.btn-1{
+    color: hsl(179, 100%, 13%);
+    background-color:hsl(31, 77%, 52%);
+    text-decoration: none ;
+    border: none;
+    border-radius: 30px;
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
